@@ -5,7 +5,7 @@
 ### January 12
 
 * C++ - [Janis Lesinskis](https://github.com/shuttle1987)
-* Web Accessibility - [Michael Mottola](https://github.com/controlz)
+* [Web Accessibility](https://github.com/controlz/Presentation-Web-Accessibility) - [Michael Mottola](https://github.com/controlz)
 
 ### February 9
 
@@ -13,6 +13,10 @@
 * [Deployments with Git](https://github.com/adam12/deployments-with-git-devtricks-2015) - [Adam Daniels](https://github.com/adam12)
 
 ## 2014
+
+### February 18
+
+* [Web Sockets using Socket.IO](https://github.com/controlz/Presentation-Socket.IO) - [Michael Mottola](https://github.com/controlz)
 
 ### March 10
 
@@ -51,7 +55,7 @@
 ### October 6
 
 * Zero to The PHP League: The story of how Plates became a thing - [Jonathan Reinink](https://github.com/reinink)
-* Big Data and Predictive Analytics - [Michael Mottola](https://github.com/controlz)
+* [Big Data and Predictive Analytics](git@github.com:controlz/Presentation-Big-Data-DevTricks.git) - [Michael Mottola](https://github.com/controlz)
 
 ### November 10
 
