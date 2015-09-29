@@ -12,6 +12,34 @@
 * Yocto and Arm Development - [Mark Lane](https://github.com/codeguy007)
 * [Deployments with Git](https://github.com/adam12/deployments-with-git-devtricks-2015) - [Adam Daniels](https://github.com/adam12)
 
+### March 9
+
+* Introductory presentation to Web Application Development using Golang - Darren Peters
+* Cloud Deployment with Ansible - [Mark Lane](https://github.com/codeguy007)
+
+### April 13
+
+* AngularJS UI-Router: All about states and named views - [Nick Kenyeres](https://github.com/knicklabs)
+* TypeScript: 0 - 100... real quick - [Ilia Choly](https://github.com/icholy)
+* Solving the Hamiltonian path problem in O(n) time by using a molecular computer - Darren Peters
+
+### June 8
+
+* Pick a feeling. Chase it. - [Shane McCafferty](https://twitter.com/egvroom)
+* Elasticsearch - [Carlo Costantini](https://github.com/fifteen3)
+
+### July 13
+
+* Appcelerator: Going native with Javascript - [Collin Price](https://github.com/collinprice)
+* Customer's Role in Product Development - Ryan Monkman
+* Pitch Perfect (not the movie) - [Trevor Twining](https://github.com/trevortwining)
+
+### September 14
+
+* Your first 15 minutes of Ruby/Rails - [Adam Daniels](https://github.com/adam12)
+* A RubyGems Toolbox - An Introduction to Bundler, RubyGems, and useful gems for most any app - [Nick Kenyeres](https://github.com/knicklabs)
+* Deploying with Heroku - [Michael Mottola](https://github.com/controlz)
+
 ## 2014
 
 ### February 18
