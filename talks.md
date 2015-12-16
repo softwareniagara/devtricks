@@ -56,7 +56,7 @@
 
 * Do you even computer? - [Ilia Choly](https://github.com/icholy)
 * Beaglebone Development - [Janis Lesinskis](https://github.com/shuttle1987)
-* Redux - [Nick Kenyeres](https://github.com/knicklabs)
+* [Redux](https://speakerdeck.com/knicklabs/a-brief-introduction-to-redux) - [Nick Kenyeres](https://github.com/knicklabs)
 
 ## 2014
 
