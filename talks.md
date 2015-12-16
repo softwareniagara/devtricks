@@ -40,6 +40,24 @@
 * A RubyGems Toolbox - An Introduction to Bundler, RubyGems, and useful gems for most any app - [Nick Kenyeres](https://github.com/knicklabs)
 * Deploying with Heroku - [Michael Mottola](https://github.com/controlz)
 
+### October 5
+
+* Increasing productivity through better sleep - [Jillian Dowling](http://sleepwise.ca/)
+* Manifold - [Scott Barbacki]()
+* Working for a US company - [Allen Poapst]()
+
+### November 9
+
+* NPM as a build tool - [Ian McDonald](https://github.com/ianmcdonald)
+* Wordpress and Version Control - [Orest Nahacziwec]()
+* Wagtail CMS - [Trevor Twining](https://github.com/trevortwining)
+
+### December 14
+
+* Do you even computer? - [Ilia Choly](https://github.com/icholy)
+* Beaglebone Development - [Janis Lesinskis](https://github.com/shuttle1987)
+* Redux - [Nick Kenyeres](https://github.com/knicklabs)
+
 ## 2014
 
 ### February 18
