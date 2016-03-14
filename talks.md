@@ -43,7 +43,7 @@
 ### October 5
 
 * Increasing productivity through better sleep - [Jillian Dowling](http://sleepwise.ca/)
-* Manifold - [Scott Barbacki]()
+* [Manifold](https://github.com/sbarbacki/ManifoldGIS_Presentation) - [Scott Barbacki](https://github.com/sbarbacki)
 * Working for a US company - [Allen Poapst]()
 
 ### November 9
