@@ -1,5 +1,49 @@
 # DevTricks Talks
 
+## 2016
+
+### January 11
+
+* 0-100: My experience with a 9 week web development bootcamp - Ryan Magowan 
+* Apple Watch Complications - [Ilia Choly](https://github.com/icholy)
+* Mithril.js: The shiny, strong, no magic "framework" - [Adam Daniels](https://github.com/adam12)
+
+### February 8
+
+* Algorithms, an interviewer's inspection - Ryan Magowan
+* Implementing Twitter's Typeahead.js / Bloodhound engine - Adam White
+* Overview of WordPress and theme/plugin development - Ben Chung
+
+### March 14
+
+* HTML5 PushState API - [Michael Mottola](https://github.com/controlz)
+* Imposter Syndrome - Ryan Magowan
+* 50,000,000 ES2015 Fans Can't Be Wrong - Ian McDonald
+
+### April 11
+
+* Pico-8 - [Shane McCafferty](https://twitter.com/egvroom)
+* Chef - Eric
+* Level Up - [Carlo Costantini](https://github.com/fifteen3)
+
+### May 9
+
+* Ethereum - John Gerryts
+* Everything you never wanted to know about objects - [Nick Kenyeres](https://github.com/knicklabs)
+* ELK Stack - [Carlo Costantini](https://github.com/fifteen3)
+
+### June 13
+
+* Rust Introduction - [Joe Peric](https://github.com/joeperic)
+* Investing - Allen Poapst
+* AWS Cloudformation - [Carlo Costantini](https://github.com/fifteen3)
+
+### July 11
+
+* Open Data - [Trevor Twining](https://github.com/trevortwining)
+* Robin - [Ilia Choly](https://github.com/icholy)
+* Compilers - [Joe Peric](https://github.com/joeperic)
+
 ## 2015
 
 ### January 12
