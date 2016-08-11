@@ -4,21 +4,21 @@
 
 ### January 11
 
-* 0-100: My experience with a 9 week web development bootcamp - Ryan Magowan 
+* 0-100: My experience with a 9 week web development bootcamp - [Ryan Magowan](https://github.com/ryanmmhmm)
 * Apple Watch Complications - [Ilia Choly](https://github.com/icholy)
 * Mithril.js: The shiny, strong, no magic "framework" - [Adam Daniels](https://github.com/adam12)
 
 ### February 8
 
-* Algorithms, an interviewer's inspection - Ryan Magowan
-* Implementing Twitter's Typeahead.js / Bloodhound engine - Adam White
-* Overview of WordPress and theme/plugin development - Ben Chung
+* Algorithms, an interviewer's inspection - [Ryan Magowan](https://github.com/ryanmmhmm)
+* Implementing Twitter's Typeahead.js / Bloodhound engine - [Adam White](https://github.com/upperrapids)
+* Overview of WordPress and theme/plugin development - [Ben Chung](https://github.com/benchung5)
 
 ### March 14
 
 * HTML5 PushState API - [Michael Mottola](https://github.com/controlz)
-* Imposter Syndrome - Ryan Magowan
-* 50,000,000 ES2015 Fans Can't Be Wrong - Ian McDonald
+* Imposter Syndrome - [Ryan Magowan](https://github.com/ryanmmhmm)
+* 50,000,000 ES2015 Fans Can't Be Wrong - [Ian McDonald](https://github.com/ianmcdonald)
 
 ### April 11
 
@@ -28,7 +28,7 @@
 
 ### May 9
 
-* Ethereum - John Gerryts
+* Ethereum - [John Gerryts](https://github.com/phonikg)
 * Everything you never wanted to know about objects - [Nick Kenyeres](https://github.com/knicklabs)
 * ELK Stack - [Carlo Costantini](https://github.com/fifteen3)
 
