@@ -44,6 +44,18 @@
 * Robin - [Ilia Choly](https://github.com/icholy)
 * Compilers - [Joe Peric](https://github.com/joeperic)
 
+### August
+
+* Angular Google Chart - [Nicholas Bering](https://github.com/nbering)
+* Building static sites with Wordpress - [Nickolas Kenyeres](https://github.com/knicklabs)
+* Behaviour Change - Lisa Whittingham
+
+### September
+
+* Intro to Back.io - [Nicholas Bering](https://github.com/nbering)
+* Estimating Dev Work - [Michael Mottola](https://github.com/controlz)
+* 10 PRINT "REJECTED!"  20 GOTO 10 - [Shane McCafferty](https://twitter.com/egvroom)
+
 ## 2015
 
 ### January 12
