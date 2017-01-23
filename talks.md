@@ -5,7 +5,7 @@
 ### January
 
 * 0-100: My experience with a 9 week web development bootcamp - [Ryan Magowan](https://github.com/ryanmmhmm)
-* Apple Watch Complications - [Ilia Choly](https://github.com/icholy)
+* Apple Watch Complications - [Shane McCafferty](https://twitter.com/egvroom)
 * Mithril.js: The shiny, strong, no magic "framework" - [Adam Daniels](https://github.com/adam12)
 
 ### February
