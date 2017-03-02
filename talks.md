@@ -1,4 +1,11 @@
-# DevTricks Talks
+# DevTricks Talks 
+
+## 2017
+
+### February
+* Buying/Selling Websites/Web Businesses - Tim Ginn
+* Publishing a WordPress Theme - Rose Merry
+* Nightwatch.js - [Nickolas Kenyeres](https://github.com/knicklabs)
 
 ## 2016
 
