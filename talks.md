@@ -3,7 +3,7 @@
 ## 2017
 
 ### February
-* Buying/Selling Websites/Web Businesses - Tim Ginn
+* [Buying/Selling Websites/Web Businesses](https://rawgit.com/timginn/devtrx-buysell/master/index.html#/) - [Tim Ginn](https://github.com/timginn)
 * Publishing a WordPress Theme - Rose Merry
 * Nightwatch.js - [Nickolas Kenyeres](https://github.com/knicklabs)
 
