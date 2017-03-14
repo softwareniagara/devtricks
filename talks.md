@@ -7,6 +7,11 @@
 * Publishing a WordPress Theme - Rose Merry
 * Nightwatch.js - [Nickolas Kenyeres](https://github.com/knicklabs)
 
+### [March](https://www.meetup.com/software-niagara/events/238239870/)
+* Project Oaken: Introduction to Blockchain & IoT | The Path to Dubai - John Gerryts
+* Building Your Own Web Framework - Adam Daniels
+* [Fail-Safes in Software and Systems Design](http://nicholasbering.ca/decks/fail-safe/) - Nicholas Bering
+
 ## 2016
 
 ### January
