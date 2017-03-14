@@ -9,7 +9,7 @@
 
 ### [March](https://www.meetup.com/software-niagara/events/238239870/)
 * Project Oaken: Introduction to Blockchain & IoT | The Path to Dubai - John Gerryts
-* Building Your Own Web Framework - Adam Daniels
+* [Building Your Own Web Framework](http://adamdaniels.ca/talks/building-web-framework-devtricks-2017/index.html) - [Adam Daniels](http://adamdaniels.ca)
 * [Fail-Safes in Software and Systems Design](http://nicholasbering.ca/decks/fail-safe/) - Nicholas Bering
 
 ## 2016
