@@ -1,5 +1,24 @@
 # DevTricks Talks 
 
+## 2018
+
+### June
+* Self-Sovereign Digital Identity - Steve Boyd
+* Penetration Testing Wordpress with Kali Linux - Rose S
+
+### July
+* Locksmithing for Web Servers - Nick Bering
+* Site Reliability Engineering - Will Warren
+* On Moving to Microservices - Brian Cline
+
+### August
+* [Software Quality for Developers](https://www.slideshare.net/mairabay/software-quality-for-developers) - Maira Bay De Souza
+* Lessons learned from running a Tech startup - Mike Mottola
+* Embracing Remote Work - Nick Kenyeres
+
+### September - DevTricks 50
+* TensorFlow - Dan Woytowich
+
 ## 2017
 
 ### January
@@ -10,7 +29,7 @@
 * Publishing a WordPress Theme - Rose Merry
 * Nightwatch.js - [Nickolas Kenyeres](https://github.com/knicklabs)
 
-### [March](https://www.meetup.com/software-niagara/events/238239870/)
+### [March](https://www.meetup.com/software-niagara/events/238239870/) - DevTricks 46
 * Project Oaken: Introduction to Blockchain & IoT | The Path to Dubai - John Gerryts
 * [Building Your Own Web Framework](http://adamdaniels.ca/talks/building-web-framework-devtricks-2017/index.html) - [Adam Daniels](http://adamdaniels.ca)
 * [Fail-Safes in Software and Systems Design](http://nicholasbering.ca/decks/fail-safe/) - Nicholas Bering
