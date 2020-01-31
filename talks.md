@@ -4,7 +4,7 @@
 
 ### June
 * Self-Sovereign Digital Identity - Steve Boyd
-* Penetration Testing Wordpress with Kali Linux - Rose S
+* Penetration Testing Wordpress with Kali Linux
 
 ### July
 * Locksmithing for Web Servers - Nick Bering
@@ -26,7 +26,7 @@
 
 ### February
 * [Buying/Selling Websites/Web Businesses](https://rawgit.com/timginn/devtrx-buysell/master/index.html#/) - [Tim Ginn](https://github.com/timginn)
-* Publishing a WordPress Theme - Rose Merry
+* Publishing a WordPress Theme
 * Nightwatch.js - [Nickolas Kenyeres](https://github.com/knicklabs)
 
 ### [March](https://www.meetup.com/software-niagara/events/238239870/) - DevTricks 46
